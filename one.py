@@ -17,3 +17,8 @@ if num>=0:
         print("Positive")
 else:
     print("Negative")
+
+#_____________________________________
+#using ternary: 
+num =15
+print("Positive" if num>=0 else "Negative")
